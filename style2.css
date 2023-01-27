@@ -1,0 +1,43 @@
+.body2{background-image: url("nik/1624034230_42-phonoteka_org-p-oboi-na-rabochii-stol-kosmos-krasivo-44.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+   text-align:center ;
+   color: rgb(111, 116, 112); 
+}
+p{
+    text-align: center;
+    color: rgb(201, 199, 198);
+    font-size: xx-large;
+    background-color: rgba(85, 82, 82, 0.479);
+}
+.Space{
+    position: absolute;
+    width: 500px;
+    left: 50px;
+}
+.btn2{
+   text-decoration: none;    
+   color: azure;
+   font-size: xxx-large;
+   transition: .6s;
+} 
+.btn2:hover{
+   color: black;
+   background-color: white;
+}
+.ded{
+    position: absolute;
+    left: 600px;
+}
+header{
+    display: flex;
+   justify-content: space-around;
+   background: #ffffff52;
+}
+.opo{
+    position: absolute;
+    width: 500px;
+    left: 1350px;
+}

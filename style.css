@@ -1,0 +1,55 @@
+h1{
+   position: absolute;
+   text-align: center;
+   color: rgb(117, 114, 119); 
+}
+p{
+   text-align: center;
+   color: rgb(212, 206, 206);
+   font-size: xx-large;
+   background-color: rgba(83, 79, 79, 0.521);
+}
+body{background-image:url("image/tmb_50222_7235.jpg");
+background-repeat:no-repeat;
+background-size: cover;
+}
+
+.Space{
+   /* position: absolute; */
+   width: 21%;
+   top: 550px;
+   z-index: -1;
+   
+}
+.pop{
+   /* position: absolute; */
+   width: 30%;
+   right: 1200px ;
+   top: 300px;
+   z-index: -1;
+   margin-left: 100px ;
+}
+.vidio{
+   /* position: absolute;  */
+   bottom: 200px; 
+   left: 650px;
+   z-index: -1;
+}
+.btn{
+   text-decoration: none;
+   color: azure;
+   font-size: xxx-large;
+   transition: .6s;
+} 
+.btn:hover{
+   color: black;
+   background-color: white;
+}
+
+
+header{
+   display: flex;
+   justify-content: space-around;
+   background: #ffffff52;
+
+}

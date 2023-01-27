@@ -1,0 +1,53 @@
+.body3{
+    background-image:url("image/field_image_istock-516189065.jpg") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.lol{
+    position: absolute;
+    width: 500px;
+    left: 50px;
+}
+.ola{
+    position: absolute;
+    width: 500px;
+    left: 1350px ;
+}
+
+
+.btn3{
+    text-decoration: none;
+    color: azure;
+    font-size: xxx-large;
+    transition: .6s;
+ } 
+ .btn3:hover{
+    color: black;
+    background-color: white;
+ }
+h1{
+    text-align: center;
+    color: rgb(109, 103, 103);
+    font-size: xx-large;
+}
+p{
+    text-align: center;
+    color: rgb(194, 191, 191);
+    font-size: xx-large;
+    background-color: rgba(95, 92, 92, 0.486);
+}
+body{
+    background-image:url('nik/57d50d9288c5d157183d0480.jpg') ;
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+.gul{
+    position: absolute;
+    left: 600px ;
+}
+header{
+    display: flex;
+    justify-content: space-around;
+    background: #ffffff52;
+}
+   
